@@ -15,4 +15,4 @@ for i in range(m):
     set2.add(element)
 
 common_elements = sorted(set1.intersection(set2))
-print( "ответ" common_elements)
+print (common_elements)
